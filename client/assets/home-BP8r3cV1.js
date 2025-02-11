@@ -1,0 +1,1 @@
+import{w as e}from"./with-props-DvPqDDfd.js";import{l as t}from"./chunk-IR6S3I6Y-BvsIcvZg.js";function o(){return t.jsx("div",{className:"container"})}function m({}){return[{title:"LoveWeb"},{name:"description",content:"A website about my love"}]}const s=e(function(){return t.jsx(o,{})});export{s as default,m as meta};
